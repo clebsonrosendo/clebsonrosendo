@@ -1,4 +1,4 @@
-<h1 align="left"><About Me></h1>
+<h1 align="left">About Me</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left"><Stats></h1>
+<h1 align="left">Stats</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="left"><Techs></h1>
+<h1 align="left">Techs</h1>
 
 ###
 
