@@ -1,4 +1,4 @@
-<h2 align="left">About Me</h2>
+<h2 align="left" style="color:#8be9fd;">About Me</h2>
 
 ###
 
@@ -41,18 +41,26 @@
 
 ###
 
+<h2 align="left">Trophies</h2>
+
+###
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=clebsonrosendo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
+<h2 align="left">Social Media</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/clebson-rosendo-1a12a5234/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@clebsondev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
 
