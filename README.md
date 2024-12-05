@@ -1,12 +1,12 @@
-<h1 align="left">Stats</h1>
+<h1 align="left"><About Me></h1>
 
 ###
 
-<h1 align="left">About Me</h1>
+<p align="left">"Computer Science student and front-end developer. I am always looking to enhance my knowledge and put it into practice."</p>
 
 ###
 
-<p align="left"><Hello World!!></p>
+<h1 align="left"><Stats></h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="left">Techs</h1>
+<h1 align="left"><Techs></h1>
 
 ###
 
