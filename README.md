@@ -1,12 +1,12 @@
-<h1 align="left">About Me</h1>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">"Computer Science student and front-end developer. I am always looking to enhance my knowledge and put it into practice."</p>
+<p align="left">Computer Science student, always striving to enhance my knowledge and apply it in practice.<br><br>- Software Developer<br>- Data Analyst<br>- Freelancer</p>
 
 ###
 
-<h1 align="left">Stats</h1>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="left">Techs</h1>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -37,6 +37,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=clebsonrosendo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/clebson-rosendo-1a12a5234/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@clebsondev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+  </a>
 </div>
 
 ###
